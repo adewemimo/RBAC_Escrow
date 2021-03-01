@@ -1,7 +1,7 @@
 ## RBAC_Escrow
 
-
 An Escrow Contract that implement Role Base Access Control with agent, buyer and seller roles. Contract was developed in the truffle development environment.
+* `npm install` will install openzeppelin and other dependencies to run the contract
 * Run project using `truffle compile` and `truffle develop`.
 * Access ganache with `ganache-cli`.
 
